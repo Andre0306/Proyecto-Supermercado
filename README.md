@@ -39,7 +39,7 @@ Este proyecto forma parte de mi portfolio como estudiante de **Ciencia de Datos*
 ## 📬 Contacto
 
 - 💼 www.linkedin.com/in/andrea-elena-moreno-lamberti-6ab3a7169
-- 📧 andreamorenol@hotmail.com
+- 📧 "andreamorenol@hotmail.com"
 - 📁 [Repositorio GitHub](https://github.com/Andre0306/proyecto-supermercado)
 
 ---# Proyecto-Supermercado
