@@ -1,0 +1,1001 @@
+Fecha,Categoría,Medio de pago,Sucursal,Ventas,Mes,Año
+2023-01-01,Higiene,MercadoPago,Almagro,1227,1,2023
+2023-01-02,Electrónica,Transferencia,Palermo,3027,1,2023
+2023-01-03,Limpieza,Tarjeta de débito,Belgrano,3636,1,2023
+2023-01-04,Electrónica,Efectivo,Caballito,842,1,2023
+2023-01-05,Electrónica,Tarjeta de débito,Belgrano,1947,1,2023
+2023-01-06,Bebidas,Tarjeta de débito,Belgrano,2879,1,2023
+2023-01-07,Limpieza,MercadoPago,Palermo,4159,1,2023
+2023-01-08,Limpieza,Transferencia,Palermo,1026,1,2023
+2023-01-09,Limpieza,Tarjeta de crédito,Palermo,2396,1,2023
+2023-01-10,Electrónica,Transferencia,Palermo,2573,1,2023
+2023-01-11,Higiene,Transferencia,Almagro,905,1,2023
+2023-01-12,Limpieza,Tarjeta de débito,Palermo,2073,1,2023
+2023-01-13,Ropa,Transferencia,Almagro,4240,1,2023
+2023-01-14,Electrónica,Efectivo,Almagro,4774,1,2023
+2023-01-15,Bebidas,Tarjeta de débito,Palermo,4727,1,2023
+2023-01-16,Higiene,Efectivo,Recoleta,2346,1,2023
+2023-01-17,Ropa,Tarjeta de crédito,Caballito,1978,1,2023
+2023-01-18,Ropa,Tarjeta de débito,Belgrano,2895,1,2023
+2023-01-19,Bebidas,Tarjeta de crédito,Almagro,1271,1,2023
+2023-01-20,Higiene,Tarjeta de débito,Caballito,1078,1,2023
+2023-01-21,Electrónica,MercadoPago,Recoleta,3401,1,2023
+2023-01-22,Alimentos,Transferencia,Belgrano,693,1,2023
+2023-01-23,Higiene,MercadoPago,Belgrano,2507,1,2023
+2023-01-24,Bebidas,Tarjeta de crédito,Almagro,1685,1,2023
+2023-01-25,Ropa,Transferencia,Palermo,2894,1,2023
+2023-01-26,Electrónica,Tarjeta de débito,Recoleta,3498,1,2023
+2023-01-27,Higiene,Transferencia,Almagro,2292,1,2023
+2023-01-28,Alimentos,Efectivo,Recoleta,1610,1,2023
+2023-01-29,Alimentos,Transferencia,Palermo,4505,1,2023
+2023-01-30,Limpieza,Efectivo,Palermo,2761,1,2023
+2023-01-31,Limpieza,Transferencia,Almagro,4236,1,2023
+2023-02-01,Bebidas,Efectivo,Palermo,4293,2,2023
+2023-02-02,Higiene,Tarjeta de crédito,Caballito,2436,2,2023
+2023-02-03,Higiene,MercadoPago,Belgrano,4857,2,2023
+2023-02-04,Ropa,Tarjeta de débito,Almagro,1229,2,2023
+2023-02-05,Ropa,Transferencia,Recoleta,4878,2,2023
+2023-02-06,Ropa,MercadoPago,Caballito,3951,2,2023
+2023-02-07,Limpieza,Tarjeta de débito,Almagro,4957,2,2023
+2023-02-08,Higiene,Tarjeta de débito,Palermo,2640,2,2023
+2023-02-09,Higiene,Efectivo,Palermo,2144,2,2023
+2023-02-10,Alimentos,Tarjeta de crédito,Palermo,3300,2,2023
+2023-02-11,Limpieza,Tarjeta de crédito,Palermo,641,2,2023
+2023-02-12,Electrónica,MercadoPago,Recoleta,1955,2,2023
+2023-02-13,Limpieza,Tarjeta de crédito,Caballito,2596,2,2023
+2023-02-14,Electrónica,Transferencia,Belgrano,1825,2,2023
+2023-02-15,Alimentos,Tarjeta de crédito,Recoleta,1713,2,2023
+2023-02-16,Bebidas,MercadoPago,Recoleta,1659,2,2023
+2023-02-17,Higiene,Tarjeta de crédito,Belgrano,4999,2,2023
+2023-02-18,Alimentos,Transferencia,Belgrano,840,2,2023
+2023-02-19,Higiene,Efectivo,Palermo,4328,2,2023
+2023-02-20,Ropa,MercadoPago,Recoleta,2468,2,2023
+2023-02-21,Bebidas,Efectivo,Almagro,1203,2,2023
+2023-02-22,Bebidas,Efectivo,Belgrano,4913,2,2023
+2023-02-23,Alimentos,Efectivo,Belgrano,2929,2,2023
+2023-02-24,Bebidas,Tarjeta de débito,Caballito,2300,2,2023
+2023-02-25,Electrónica,Tarjeta de débito,Almagro,1355,2,2023
+2023-02-26,Bebidas,Efectivo,Almagro,2312,2,2023
+2023-02-27,Higiene,MercadoPago,Belgrano,3366,2,2023
+2023-02-28,Higiene,Transferencia,Palermo,4142,2,2023
+2023-03-01,Higiene,Transferencia,Caballito,682,3,2023
+2023-03-02,Higiene,Tarjeta de crédito,Almagro,3612,3,2023
+2023-03-03,Electrónica,MercadoPago,Belgrano,4992,3,2023
+2023-03-04,Limpieza,Tarjeta de débito,Almagro,2017,3,2023
+2023-03-05,Ropa,Efectivo,Caballito,1856,3,2023
+2023-03-06,Alimentos,Tarjeta de crédito,Caballito,2674,3,2023
+2023-03-07,Higiene,Transferencia,Recoleta,4129,3,2023
+2023-03-08,Bebidas,Tarjeta de débito,Belgrano,4128,3,2023
+2023-03-09,Higiene,Tarjeta de débito,Caballito,4596,3,2023
+2023-03-10,Bebidas,Efectivo,Recoleta,3739,3,2023
+2023-03-11,Ropa,Transferencia,Recoleta,4191,3,2023
+2023-03-12,Ropa,MercadoPago,Almagro,518,3,2023
+2023-03-13,Ropa,Tarjeta de débito,Almagro,3903,3,2023
+2023-03-14,Bebidas,Efectivo,Recoleta,3504,3,2023
+2023-03-15,Higiene,MercadoPago,Almagro,1632,3,2023
+2023-03-16,Ropa,Transferencia,Caballito,3839,3,2023
+2023-03-17,Electrónica,Tarjeta de débito,Palermo,3811,3,2023
+2023-03-18,Bebidas,MercadoPago,Caballito,3872,3,2023
+2023-03-19,Bebidas,MercadoPago,Recoleta,1487,3,2023
+2023-03-20,Higiene,MercadoPago,Recoleta,3821,3,2023
+2023-03-21,Bebidas,Tarjeta de débito,Caballito,673,3,2023
+2023-03-22,Bebidas,Tarjeta de débito,Almagro,4241,3,2023
+2023-03-23,Ropa,Tarjeta de crédito,Almagro,3552,3,2023
+2023-03-24,Higiene,Transferencia,Recoleta,1226,3,2023
+2023-03-25,Ropa,Efectivo,Belgrano,4260,3,2023
+2023-03-26,Ropa,MercadoPago,Almagro,2375,3,2023
+2023-03-27,Higiene,Tarjeta de crédito,Caballito,4533,3,2023
+2023-03-28,Alimentos,Efectivo,Almagro,1489,3,2023
+2023-03-29,Ropa,Tarjeta de crédito,Caballito,4244,3,2023
+2023-03-30,Electrónica,Tarjeta de débito,Recoleta,3186,3,2023
+2023-03-31,Electrónica,MercadoPago,Almagro,919,3,2023
+2023-04-01,Bebidas,Efectivo,Caballito,1093,4,2023
+2023-04-02,Electrónica,Efectivo,Recoleta,2274,4,2023
+2023-04-03,Bebidas,Efectivo,Belgrano,2959,4,2023
+2023-04-04,Alimentos,Efectivo,Caballito,1435,4,2023
+2023-04-05,Higiene,Efectivo,Belgrano,4308,4,2023
+2023-04-06,Higiene,Tarjeta de crédito,Belgrano,831,4,2023
+2023-04-07,Higiene,MercadoPago,Palermo,3949,4,2023
+2023-04-08,Electrónica,Tarjeta de débito,Almagro,3202,4,2023
+2023-04-09,Alimentos,Tarjeta de débito,Caballito,4506,4,2023
+2023-04-10,Electrónica,Tarjeta de débito,Belgrano,4368,4,2023
+2023-04-11,Electrónica,Tarjeta de débito,Palermo,4700,4,2023
+2023-04-12,Alimentos,Tarjeta de crédito,Recoleta,701,4,2023
+2023-04-13,Alimentos,Transferencia,Caballito,2997,4,2023
+2023-04-14,Alimentos,MercadoPago,Belgrano,2342,4,2023
+2023-04-15,Alimentos,Efectivo,Almagro,2366,4,2023
+2023-04-16,Higiene,Transferencia,Palermo,2496,4,2023
+2023-04-17,Limpieza,Tarjeta de débito,Belgrano,1409,4,2023
+2023-04-18,Limpieza,Transferencia,Almagro,4805,4,2023
+2023-04-19,Alimentos,MercadoPago,Belgrano,3689,4,2023
+2023-04-20,Limpieza,Efectivo,Caballito,1270,4,2023
+2023-04-21,Limpieza,Efectivo,Caballito,3655,4,2023
+2023-04-22,Alimentos,MercadoPago,Caballito,3001,4,2023
+2023-04-23,Limpieza,MercadoPago,Palermo,3214,4,2023
+2023-04-24,Electrónica,Tarjeta de débito,Caballito,4085,4,2023
+2023-04-25,Bebidas,Efectivo,Almagro,2128,4,2023
+2023-04-26,Bebidas,Transferencia,Belgrano,886,4,2023
+2023-04-27,Alimentos,Tarjeta de crédito,Recoleta,3921,4,2023
+2023-04-28,Higiene,Tarjeta de crédito,Almagro,4508,4,2023
+2023-04-29,Alimentos,MercadoPago,Almagro,4593,4,2023
+2023-04-30,Higiene,Tarjeta de débito,Caballito,4863,4,2023
+2023-05-01,Bebidas,Tarjeta de crédito,Palermo,2966,5,2023
+2023-05-02,Alimentos,Efectivo,Belgrano,2782,5,2023
+2023-05-03,Ropa,MercadoPago,Palermo,2356,5,2023
+2023-05-04,Electrónica,Transferencia,Belgrano,2498,5,2023
+2023-05-05,Limpieza,MercadoPago,Belgrano,1736,5,2023
+2023-05-06,Higiene,Transferencia,Palermo,4644,5,2023
+2023-05-07,Ropa,MercadoPago,Almagro,1650,5,2023
+2023-05-08,Limpieza,MercadoPago,Belgrano,4818,5,2023
+2023-05-09,Limpieza,MercadoPago,Palermo,1931,5,2023
+2023-05-10,Alimentos,Transferencia,Belgrano,2319,5,2023
+2023-05-11,Limpieza,Transferencia,Recoleta,2824,5,2023
+2023-05-12,Electrónica,MercadoPago,Almagro,1630,5,2023
+2023-05-13,Ropa,Tarjeta de crédito,Caballito,3158,5,2023
+2023-05-14,Limpieza,Tarjeta de débito,Belgrano,4000,5,2023
+2023-05-15,Alimentos,Tarjeta de débito,Recoleta,874,5,2023
+2023-05-16,Electrónica,Tarjeta de débito,Caballito,2620,5,2023
+2023-05-17,Bebidas,Transferencia,Caballito,4520,5,2023
+2023-05-18,Ropa,Transferencia,Belgrano,2521,5,2023
+2023-05-19,Limpieza,Tarjeta de crédito,Palermo,4205,5,2023
+2023-05-20,Alimentos,Tarjeta de débito,Belgrano,3759,5,2023
+2023-05-21,Bebidas,Tarjeta de débito,Recoleta,3935,5,2023
+2023-05-22,Bebidas,MercadoPago,Caballito,2389,5,2023
+2023-05-23,Higiene,Transferencia,Belgrano,2323,5,2023
+2023-05-24,Electrónica,Tarjeta de débito,Palermo,1974,5,2023
+2023-05-25,Limpieza,Tarjeta de crédito,Belgrano,2742,5,2023
+2023-05-26,Alimentos,Tarjeta de crédito,Almagro,3743,5,2023
+2023-05-27,Higiene,Tarjeta de débito,Palermo,3634,5,2023
+2023-05-28,Electrónica,Transferencia,Recoleta,2570,5,2023
+2023-05-29,Higiene,Tarjeta de crédito,Caballito,859,5,2023
+2023-05-30,Ropa,MercadoPago,Belgrano,2541,5,2023
+2023-05-31,Electrónica,Tarjeta de crédito,Palermo,1641,5,2023
+2023-06-01,Electrónica,Efectivo,Almagro,2135,6,2023
+2023-06-02,Limpieza,Efectivo,Palermo,4500,6,2023
+2023-06-03,Electrónica,Transferencia,Almagro,2443,6,2023
+2023-06-04,Higiene,Tarjeta de débito,Recoleta,3861,6,2023
+2023-06-05,Electrónica,Transferencia,Caballito,3480,6,2023
+2023-06-06,Limpieza,Transferencia,Recoleta,506,6,2023
+2023-06-07,Limpieza,Transferencia,Belgrano,3767,6,2023
+2023-06-08,Ropa,Transferencia,Palermo,2091,6,2023
+2023-06-09,Higiene,MercadoPago,Almagro,3764,6,2023
+2023-06-10,Bebidas,MercadoPago,Almagro,3106,6,2023
+2023-06-11,Bebidas,Tarjeta de crédito,Palermo,3719,6,2023
+2023-06-12,Electrónica,Efectivo,Palermo,3773,6,2023
+2023-06-13,Ropa,Transferencia,Belgrano,1413,6,2023
+2023-06-14,Alimentos,Tarjeta de crédito,Recoleta,2511,6,2023
+2023-06-15,Electrónica,Efectivo,Almagro,1942,6,2023
+2023-06-16,Ropa,Tarjeta de débito,Belgrano,3554,6,2023
+2023-06-17,Higiene,MercadoPago,Recoleta,4046,6,2023
+2023-06-18,Higiene,Efectivo,Belgrano,4721,6,2023
+2023-06-19,Higiene,Tarjeta de débito,Almagro,3428,6,2023
+2023-06-20,Higiene,Efectivo,Palermo,2329,6,2023
+2023-06-21,Higiene,MercadoPago,Palermo,1075,6,2023
+2023-06-22,Ropa,MercadoPago,Recoleta,1429,6,2023
+2023-06-23,Ropa,Tarjeta de crédito,Caballito,4259,6,2023
+2023-06-24,Limpieza,Transferencia,Recoleta,4199,6,2023
+2023-06-25,Bebidas,Efectivo,Caballito,1963,6,2023
+2023-06-26,Higiene,Efectivo,Belgrano,3775,6,2023
+2023-06-27,Alimentos,Tarjeta de débito,Belgrano,1554,6,2023
+2023-06-28,Ropa,MercadoPago,Almagro,2400,6,2023
+2023-06-29,Alimentos,Efectivo,Caballito,1957,6,2023
+2023-06-30,Alimentos,MercadoPago,Almagro,1899,6,2023
+2023-07-01,Alimentos,Efectivo,Palermo,3915,7,2023
+2023-07-02,Limpieza,Tarjeta de crédito,Caballito,942,7,2023
+2023-07-03,Ropa,Transferencia,Recoleta,4150,7,2023
+2023-07-04,Alimentos,Efectivo,Palermo,1678,7,2023
+2023-07-05,Higiene,MercadoPago,Palermo,4958,7,2023
+2023-07-06,Electrónica,Tarjeta de crédito,Recoleta,1757,7,2023
+2023-07-07,Alimentos,Efectivo,Palermo,4134,7,2023
+2023-07-08,Limpieza,Tarjeta de débito,Caballito,2341,7,2023
+2023-07-09,Ropa,Transferencia,Almagro,2809,7,2023
+2023-07-10,Limpieza,Efectivo,Palermo,1410,7,2023
+2023-07-11,Alimentos,Tarjeta de crédito,Caballito,4840,7,2023
+2023-07-12,Ropa,Tarjeta de débito,Belgrano,4509,7,2023
+2023-07-13,Electrónica,Tarjeta de crédito,Caballito,2669,7,2023
+2023-07-14,Alimentos,Tarjeta de crédito,Almagro,2672,7,2023
+2023-07-15,Limpieza,Tarjeta de débito,Caballito,623,7,2023
+2023-07-16,Bebidas,Tarjeta de crédito,Recoleta,3658,7,2023
+2023-07-17,Higiene,Tarjeta de débito,Almagro,1285,7,2023
+2023-07-18,Limpieza,Efectivo,Belgrano,2916,7,2023
+2023-07-19,Ropa,Tarjeta de débito,Recoleta,1296,7,2023
+2023-07-20,Alimentos,Tarjeta de débito,Caballito,4672,7,2023
+2023-07-21,Higiene,Transferencia,Almagro,4654,7,2023
+2023-07-22,Alimentos,Tarjeta de débito,Belgrano,2436,7,2023
+2023-07-23,Ropa,Tarjeta de débito,Recoleta,2656,7,2023
+2023-07-24,Alimentos,Efectivo,Belgrano,4307,7,2023
+2023-07-25,Bebidas,Transferencia,Caballito,1801,7,2023
+2023-07-26,Higiene,MercadoPago,Belgrano,4663,7,2023
+2023-07-27,Higiene,Efectivo,Palermo,3640,7,2023
+2023-07-28,Ropa,Efectivo,Recoleta,3736,7,2023
+2023-07-29,Bebidas,MercadoPago,Belgrano,2852,7,2023
+2023-07-30,Limpieza,Tarjeta de débito,Caballito,2432,7,2023
+2023-07-31,Alimentos,Tarjeta de crédito,Caballito,3221,7,2023
+2023-08-01,Electrónica,Transferencia,Belgrano,864,8,2023
+2023-08-02,Alimentos,Tarjeta de crédito,Caballito,2890,8,2023
+2023-08-03,Alimentos,MercadoPago,Almagro,1446,8,2023
+2023-08-04,Limpieza,Efectivo,Almagro,1877,8,2023
+2023-08-05,Alimentos,Efectivo,Almagro,1939,8,2023
+2023-08-06,Bebidas,Transferencia,Palermo,3680,8,2023
+2023-08-07,Bebidas,Efectivo,Belgrano,840,8,2023
+2023-08-08,Higiene,Efectivo,Palermo,3489,8,2023
+2023-08-09,Ropa,Transferencia,Caballito,882,8,2023
+2023-08-10,Electrónica,Transferencia,Palermo,2056,8,2023
+2023-08-11,Alimentos,MercadoPago,Caballito,799,8,2023
+2023-08-12,Alimentos,Efectivo,Caballito,638,8,2023
+2023-08-13,Limpieza,Efectivo,Recoleta,858,8,2023
+2023-08-14,Ropa,MercadoPago,Almagro,2022,8,2023
+2023-08-15,Bebidas,Tarjeta de débito,Caballito,3956,8,2023
+2023-08-16,Electrónica,Tarjeta de débito,Recoleta,2127,8,2023
+2023-08-17,Higiene,Tarjeta de débito,Almagro,1803,8,2023
+2023-08-18,Bebidas,MercadoPago,Caballito,1634,8,2023
+2023-08-19,Ropa,Efectivo,Caballito,2686,8,2023
+2023-08-20,Higiene,MercadoPago,Palermo,3670,8,2023
+2023-08-21,Limpieza,MercadoPago,Palermo,4335,8,2023
+2023-08-22,Limpieza,Tarjeta de débito,Almagro,2651,8,2023
+2023-08-23,Alimentos,Tarjeta de crédito,Caballito,1737,8,2023
+2023-08-24,Ropa,Efectivo,Belgrano,4235,8,2023
+2023-08-25,Electrónica,Tarjeta de débito,Palermo,3334,8,2023
+2023-08-26,Higiene,Tarjeta de crédito,Almagro,4760,8,2023
+2023-08-27,Bebidas,Tarjeta de crédito,Caballito,1498,8,2023
+2023-08-28,Ropa,Transferencia,Caballito,3067,8,2023
+2023-08-29,Ropa,Efectivo,Belgrano,1807,8,2023
+2023-08-30,Limpieza,Tarjeta de crédito,Almagro,1156,8,2023
+2023-08-31,Alimentos,Tarjeta de débito,Caballito,3160,8,2023
+2023-09-01,Alimentos,Transferencia,Palermo,2711,9,2023
+2023-09-02,Higiene,Efectivo,Belgrano,2409,9,2023
+2023-09-03,Limpieza,MercadoPago,Almagro,4230,9,2023
+2023-09-04,Ropa,Tarjeta de débito,Belgrano,2546,9,2023
+2023-09-05,Electrónica,Tarjeta de crédito,Palermo,3662,9,2023
+2023-09-06,Limpieza,Tarjeta de crédito,Almagro,1640,9,2023
+2023-09-07,Higiene,Tarjeta de débito,Belgrano,766,9,2023
+2023-09-08,Higiene,Tarjeta de crédito,Recoleta,2345,9,2023
+2023-09-09,Limpieza,Transferencia,Palermo,2208,9,2023
+2023-09-10,Higiene,Efectivo,Palermo,4130,9,2023
+2023-09-11,Limpieza,Transferencia,Palermo,3711,9,2023
+2023-09-12,Bebidas,Tarjeta de crédito,Recoleta,2793,9,2023
+2023-09-13,Limpieza,MercadoPago,Recoleta,4232,9,2023
+2023-09-14,Limpieza,Efectivo,Caballito,4329,9,2023
+2023-09-15,Higiene,Efectivo,Belgrano,2010,9,2023
+2023-09-16,Higiene,Tarjeta de débito,Caballito,975,9,2023
+2023-09-17,Alimentos,Tarjeta de débito,Belgrano,1476,9,2023
+2023-09-18,Alimentos,MercadoPago,Recoleta,1707,9,2023
+2023-09-19,Bebidas,Efectivo,Recoleta,2460,9,2023
+2023-09-20,Alimentos,MercadoPago,Caballito,1057,9,2023
+2023-09-21,Limpieza,Tarjeta de débito,Almagro,1382,9,2023
+2023-09-22,Higiene,Tarjeta de débito,Caballito,2694,9,2023
+2023-09-23,Alimentos,Efectivo,Belgrano,3167,9,2023
+2023-09-24,Alimentos,Transferencia,Caballito,2110,9,2023
+2023-09-25,Bebidas,Tarjeta de crédito,Palermo,3988,9,2023
+2023-09-26,Ropa,Tarjeta de débito,Belgrano,2954,9,2023
+2023-09-27,Bebidas,Tarjeta de débito,Belgrano,4994,9,2023
+2023-09-28,Limpieza,Transferencia,Almagro,2446,9,2023
+2023-09-29,Higiene,Transferencia,Recoleta,3308,9,2023
+2023-09-30,Bebidas,MercadoPago,Belgrano,4325,9,2023
+2023-10-01,Alimentos,MercadoPago,Recoleta,4036,10,2023
+2023-10-02,Higiene,Tarjeta de crédito,Caballito,4302,10,2023
+2023-10-03,Higiene,Tarjeta de crédito,Palermo,4677,10,2023
+2023-10-04,Alimentos,Efectivo,Almagro,2470,10,2023
+2023-10-05,Bebidas,MercadoPago,Recoleta,4322,10,2023
+2023-10-06,Alimentos,Tarjeta de débito,Belgrano,3319,10,2023
+2023-10-07,Ropa,MercadoPago,Recoleta,1402,10,2023
+2023-10-08,Higiene,Tarjeta de débito,Belgrano,864,10,2023
+2023-10-09,Electrónica,Transferencia,Recoleta,4758,10,2023
+2023-10-10,Electrónica,MercadoPago,Belgrano,3619,10,2023
+2023-10-11,Limpieza,Transferencia,Caballito,3058,10,2023
+2023-10-12,Alimentos,Tarjeta de crédito,Belgrano,2363,10,2023
+2023-10-13,Alimentos,Tarjeta de crédito,Belgrano,615,10,2023
+2023-10-14,Limpieza,Efectivo,Palermo,2884,10,2023
+2023-10-15,Limpieza,MercadoPago,Belgrano,4435,10,2023
+2023-10-16,Limpieza,Transferencia,Palermo,2990,10,2023
+2023-10-17,Higiene,Tarjeta de débito,Almagro,1442,10,2023
+2023-10-18,Ropa,Tarjeta de crédito,Palermo,2224,10,2023
+2023-10-19,Alimentos,Tarjeta de crédito,Caballito,2834,10,2023
+2023-10-20,Higiene,Tarjeta de débito,Palermo,3267,10,2023
+2023-10-21,Limpieza,Transferencia,Almagro,1637,10,2023
+2023-10-22,Alimentos,Transferencia,Caballito,3027,10,2023
+2023-10-23,Higiene,MercadoPago,Recoleta,4617,10,2023
+2023-10-24,Ropa,MercadoPago,Recoleta,3920,10,2023
+2023-10-25,Higiene,Efectivo,Palermo,4406,10,2023
+2023-10-26,Ropa,Tarjeta de crédito,Palermo,4137,10,2023
+2023-10-27,Limpieza,MercadoPago,Almagro,3453,10,2023
+2023-10-28,Ropa,Transferencia,Almagro,2867,10,2023
+2023-10-29,Alimentos,Tarjeta de débito,Belgrano,4721,10,2023
+2023-10-30,Limpieza,Transferencia,Almagro,776,10,2023
+2023-10-31,Alimentos,Tarjeta de crédito,Belgrano,2499,10,2023
+2023-11-01,Electrónica,Transferencia,Caballito,1727,11,2023
+2023-11-02,Bebidas,Efectivo,Palermo,4252,11,2023
+2023-11-03,Ropa,Tarjeta de crédito,Caballito,4235,11,2023
+2023-11-04,Bebidas,Tarjeta de débito,Almagro,1195,11,2023
+2023-11-05,Bebidas,Efectivo,Caballito,1809,11,2023
+2023-11-06,Ropa,Tarjeta de crédito,Caballito,4652,11,2023
+2023-11-07,Limpieza,Tarjeta de débito,Caballito,3734,11,2023
+2023-11-08,Electrónica,Efectivo,Almagro,4614,11,2023
+2023-11-09,Alimentos,Efectivo,Caballito,2811,11,2023
+2023-11-10,Higiene,Tarjeta de crédito,Belgrano,3341,11,2023
+2023-11-11,Alimentos,MercadoPago,Almagro,4708,11,2023
+2023-11-12,Higiene,Efectivo,Caballito,4059,11,2023
+2023-11-13,Alimentos,Efectivo,Almagro,3898,11,2023
+2023-11-14,Ropa,Tarjeta de débito,Recoleta,1041,11,2023
+2023-11-15,Electrónica,Transferencia,Belgrano,3194,11,2023
+2023-11-16,Higiene,Tarjeta de crédito,Caballito,1588,11,2023
+2023-11-17,Limpieza,Tarjeta de crédito,Recoleta,3863,11,2023
+2023-11-18,Alimentos,MercadoPago,Recoleta,524,11,2023
+2023-11-19,Alimentos,MercadoPago,Almagro,2072,11,2023
+2023-11-20,Higiene,Tarjeta de crédito,Recoleta,3458,11,2023
+2023-11-21,Limpieza,MercadoPago,Belgrano,4736,11,2023
+2023-11-22,Limpieza,Tarjeta de débito,Belgrano,2267,11,2023
+2023-11-23,Ropa,Tarjeta de crédito,Palermo,2735,11,2023
+2023-11-24,Ropa,MercadoPago,Belgrano,700,11,2023
+2023-11-25,Ropa,Tarjeta de crédito,Recoleta,3698,11,2023
+2023-11-26,Ropa,Transferencia,Belgrano,756,11,2023
+2023-11-27,Ropa,Efectivo,Almagro,4247,11,2023
+2023-11-28,Ropa,Tarjeta de crédito,Palermo,2741,11,2023
+2023-11-29,Electrónica,Efectivo,Recoleta,3675,11,2023
+2023-11-30,Limpieza,MercadoPago,Palermo,4106,11,2023
+2023-12-01,Ropa,Efectivo,Recoleta,3836,12,2023
+2023-12-02,Limpieza,Tarjeta de crédito,Almagro,913,12,2023
+2023-12-03,Limpieza,Transferencia,Palermo,2514,12,2023
+2023-12-04,Bebidas,MercadoPago,Caballito,1881,12,2023
+2023-12-05,Electrónica,Tarjeta de crédito,Recoleta,1598,12,2023
+2023-12-06,Ropa,MercadoPago,Caballito,3926,12,2023
+2023-12-07,Alimentos,Tarjeta de débito,Palermo,4155,12,2023
+2023-12-08,Higiene,Efectivo,Caballito,1409,12,2023
+2023-12-09,Alimentos,Tarjeta de débito,Caballito,687,12,2023
+2023-12-10,Electrónica,Tarjeta de crédito,Palermo,4544,12,2023
+2023-12-11,Higiene,Transferencia,Almagro,4256,12,2023
+2023-12-12,Electrónica,MercadoPago,Caballito,2515,12,2023
+2023-12-13,Limpieza,Efectivo,Caballito,2592,12,2023
+2023-12-14,Higiene,MercadoPago,Almagro,4144,12,2023
+2023-12-15,Limpieza,Tarjeta de crédito,Caballito,2630,12,2023
+2023-12-16,Alimentos,MercadoPago,Caballito,857,12,2023
+2023-12-17,Alimentos,Efectivo,Caballito,2922,12,2023
+2023-12-18,Higiene,Tarjeta de crédito,Belgrano,4757,12,2023
+2023-12-19,Higiene,MercadoPago,Almagro,1997,12,2023
+2023-12-20,Ropa,Transferencia,Caballito,2658,12,2023
+2023-12-21,Electrónica,Tarjeta de crédito,Almagro,3055,12,2023
+2023-12-22,Ropa,Tarjeta de crédito,Recoleta,2842,12,2023
+2023-12-23,Electrónica,Transferencia,Recoleta,3451,12,2023
+2023-12-24,Ropa,Tarjeta de débito,Caballito,1738,12,2023
+2023-12-25,Limpieza,Efectivo,Almagro,1473,12,2023
+2023-12-26,Higiene,Tarjeta de débito,Almagro,4465,12,2023
+2023-12-27,Alimentos,MercadoPago,Almagro,1550,12,2023
+2023-12-28,Electrónica,Transferencia,Belgrano,4201,12,2023
+2023-12-29,Electrónica,Tarjeta de débito,Recoleta,3280,12,2023
+2023-12-30,Alimentos,Tarjeta de crédito,Almagro,2088,12,2023
+2023-12-31,Ropa,MercadoPago,Almagro,4378,12,2023
+2024-01-01,Electrónica,MercadoPago,Belgrano,2868,1,2024
+2024-01-02,Limpieza,Tarjeta de débito,Belgrano,936,1,2024
+2024-01-03,Higiene,Tarjeta de débito,Almagro,3328,1,2024
+2024-01-04,Alimentos,Transferencia,Palermo,2056,1,2024
+2024-01-05,Higiene,Efectivo,Almagro,4358,1,2024
+2024-01-06,Electrónica,Tarjeta de débito,Almagro,1804,1,2024
+2024-01-07,Electrónica,Tarjeta de débito,Belgrano,2884,1,2024
+2024-01-08,Alimentos,Tarjeta de crédito,Belgrano,682,1,2024
+2024-01-09,Limpieza,MercadoPago,Almagro,2089,1,2024
+2024-01-10,Bebidas,Efectivo,Almagro,2087,1,2024
+2024-01-11,Alimentos,Tarjeta de crédito,Almagro,1159,1,2024
+2024-01-12,Bebidas,Transferencia,Belgrano,659,1,2024
+2024-01-13,Ropa,Transferencia,Almagro,4453,1,2024
+2024-01-14,Bebidas,Tarjeta de débito,Almagro,1511,1,2024
+2024-01-15,Limpieza,Tarjeta de débito,Caballito,552,1,2024
+2024-01-16,Ropa,Transferencia,Palermo,2807,1,2024
+2024-01-17,Bebidas,Tarjeta de débito,Recoleta,1728,1,2024
+2024-01-18,Ropa,Efectivo,Palermo,1535,1,2024
+2024-01-19,Bebidas,Tarjeta de débito,Caballito,4202,1,2024
+2024-01-20,Limpieza,MercadoPago,Recoleta,4545,1,2024
+2024-01-21,Bebidas,Tarjeta de débito,Almagro,4949,1,2024
+2024-01-22,Bebidas,Tarjeta de crédito,Caballito,1764,1,2024
+2024-01-23,Bebidas,Efectivo,Almagro,2384,1,2024
+2024-01-24,Alimentos,Tarjeta de crédito,Belgrano,2309,1,2024
+2024-01-25,Alimentos,Tarjeta de crédito,Caballito,3667,1,2024
+2024-01-26,Alimentos,MercadoPago,Belgrano,4297,1,2024
+2024-01-27,Limpieza,Efectivo,Caballito,2841,1,2024
+2024-01-28,Ropa,Efectivo,Caballito,3914,1,2024
+2024-01-29,Electrónica,Efectivo,Belgrano,1317,1,2024
+2024-01-30,Bebidas,Efectivo,Recoleta,2937,1,2024
+2024-01-31,Bebidas,Efectivo,Palermo,1388,1,2024
+2024-02-01,Limpieza,MercadoPago,Almagro,1167,2,2024
+2024-02-02,Bebidas,Tarjeta de débito,Caballito,3124,2,2024
+2024-02-03,Alimentos,Tarjeta de crédito,Almagro,4732,2,2024
+2024-02-04,Electrónica,Efectivo,Belgrano,1318,2,2024
+2024-02-05,Higiene,Tarjeta de débito,Almagro,2688,2,2024
+2024-02-06,Bebidas,Tarjeta de débito,Belgrano,1606,2,2024
+2024-02-07,Alimentos,Tarjeta de crédito,Almagro,2724,2,2024
+2024-02-08,Higiene,MercadoPago,Palermo,697,2,2024
+2024-02-09,Electrónica,Transferencia,Palermo,3171,2,2024
+2024-02-10,Higiene,Transferencia,Palermo,3992,2,2024
+2024-02-11,Alimentos,Tarjeta de débito,Palermo,2948,2,2024
+2024-02-12,Ropa,Tarjeta de crédito,Palermo,970,2,2024
+2024-02-13,Ropa,Transferencia,Palermo,2448,2,2024
+2024-02-14,Higiene,Tarjeta de débito,Belgrano,4399,2,2024
+2024-02-15,Limpieza,MercadoPago,Caballito,2510,2,2024
+2024-02-16,Higiene,Transferencia,Almagro,4300,2,2024
+2024-02-17,Bebidas,Tarjeta de débito,Palermo,4618,2,2024
+2024-02-18,Bebidas,Tarjeta de débito,Belgrano,4296,2,2024
+2024-02-19,Ropa,Efectivo,Belgrano,4488,2,2024
+2024-02-20,Limpieza,MercadoPago,Belgrano,734,2,2024
+2024-02-21,Alimentos,Efectivo,Caballito,1428,2,2024
+2024-02-22,Bebidas,Tarjeta de crédito,Almagro,4107,2,2024
+2024-02-23,Ropa,Efectivo,Caballito,1022,2,2024
+2024-02-24,Electrónica,Efectivo,Recoleta,4023,2,2024
+2024-02-25,Ropa,Transferencia,Belgrano,2129,2,2024
+2024-02-26,Bebidas,Tarjeta de débito,Recoleta,1816,2,2024
+2024-02-27,Bebidas,MercadoPago,Palermo,3357,2,2024
+2024-02-28,Ropa,Efectivo,Palermo,1624,2,2024
+2024-02-29,Alimentos,MercadoPago,Caballito,3087,2,2024
+2024-03-01,Higiene,Efectivo,Almagro,1523,3,2024
+2024-03-02,Bebidas,Tarjeta de crédito,Recoleta,1878,3,2024
+2024-03-03,Ropa,Efectivo,Almagro,3874,3,2024
+2024-03-04,Ropa,Transferencia,Caballito,2019,3,2024
+2024-03-05,Limpieza,Tarjeta de débito,Palermo,726,3,2024
+2024-03-06,Higiene,Tarjeta de crédito,Almagro,1391,3,2024
+2024-03-07,Electrónica,Efectivo,Almagro,4572,3,2024
+2024-03-08,Alimentos,MercadoPago,Palermo,2757,3,2024
+2024-03-09,Electrónica,Tarjeta de crédito,Recoleta,3288,3,2024
+2024-03-10,Higiene,Tarjeta de crédito,Palermo,896,3,2024
+2024-03-11,Higiene,Efectivo,Almagro,2578,3,2024
+2024-03-12,Higiene,Tarjeta de crédito,Recoleta,4924,3,2024
+2024-03-13,Electrónica,MercadoPago,Recoleta,3737,3,2024
+2024-03-14,Higiene,Tarjeta de crédito,Palermo,4393,3,2024
+2024-03-15,Ropa,MercadoPago,Almagro,2505,3,2024
+2024-03-16,Electrónica,Efectivo,Caballito,2516,3,2024
+2024-03-17,Higiene,Tarjeta de débito,Almagro,3671,3,2024
+2024-03-18,Ropa,Tarjeta de crédito,Belgrano,3168,3,2024
+2024-03-19,Limpieza,Tarjeta de débito,Caballito,2378,3,2024
+2024-03-20,Higiene,MercadoPago,Recoleta,1696,3,2024
+2024-03-21,Electrónica,Tarjeta de crédito,Caballito,2272,3,2024
+2024-03-22,Bebidas,Transferencia,Recoleta,661,3,2024
+2024-03-23,Higiene,Tarjeta de débito,Recoleta,4476,3,2024
+2024-03-24,Bebidas,Tarjeta de crédito,Caballito,2251,3,2024
+2024-03-25,Ropa,Tarjeta de débito,Recoleta,1275,3,2024
+2024-03-26,Limpieza,Tarjeta de crédito,Recoleta,1439,3,2024
+2024-03-27,Alimentos,Efectivo,Belgrano,3720,3,2024
+2024-03-28,Limpieza,Tarjeta de débito,Almagro,1039,3,2024
+2024-03-29,Higiene,Transferencia,Almagro,1961,3,2024
+2024-03-30,Bebidas,Transferencia,Belgrano,855,3,2024
+2024-03-31,Bebidas,MercadoPago,Caballito,4104,3,2024
+2024-04-01,Electrónica,Tarjeta de crédito,Palermo,3823,4,2024
+2024-04-02,Bebidas,Tarjeta de débito,Palermo,734,4,2024
+2024-04-03,Electrónica,MercadoPago,Palermo,2048,4,2024
+2024-04-04,Ropa,Tarjeta de débito,Belgrano,2596,4,2024
+2024-04-05,Alimentos,Tarjeta de crédito,Belgrano,4713,4,2024
+2024-04-06,Higiene,Transferencia,Recoleta,2601,4,2024
+2024-04-07,Electrónica,Efectivo,Palermo,2173,4,2024
+2024-04-08,Alimentos,Transferencia,Caballito,2600,4,2024
+2024-04-09,Bebidas,MercadoPago,Caballito,4157,4,2024
+2024-04-10,Bebidas,Efectivo,Palermo,4096,4,2024
+2024-04-11,Alimentos,MercadoPago,Palermo,4248,4,2024
+2024-04-12,Bebidas,Tarjeta de crédito,Palermo,3673,4,2024
+2024-04-13,Ropa,Efectivo,Belgrano,2315,4,2024
+2024-04-14,Ropa,MercadoPago,Belgrano,4341,4,2024
+2024-04-15,Alimentos,Tarjeta de crédito,Belgrano,2505,4,2024
+2024-04-16,Electrónica,Transferencia,Almagro,4993,4,2024
+2024-04-17,Electrónica,Tarjeta de crédito,Caballito,1174,4,2024
+2024-04-18,Alimentos,Tarjeta de débito,Caballito,886,4,2024
+2024-04-19,Electrónica,Tarjeta de crédito,Recoleta,2658,4,2024
+2024-04-20,Electrónica,Tarjeta de crédito,Belgrano,3161,4,2024
+2024-04-21,Ropa,Tarjeta de débito,Almagro,2564,4,2024
+2024-04-22,Electrónica,MercadoPago,Almagro,4351,4,2024
+2024-04-23,Limpieza,MercadoPago,Caballito,3753,4,2024
+2024-04-24,Higiene,Tarjeta de crédito,Belgrano,4766,4,2024
+2024-04-25,Bebidas,Tarjeta de débito,Recoleta,1239,4,2024
+2024-04-26,Limpieza,Tarjeta de débito,Belgrano,1901,4,2024
+2024-04-27,Electrónica,Transferencia,Palermo,3759,4,2024
+2024-04-28,Ropa,MercadoPago,Belgrano,2777,4,2024
+2024-04-29,Alimentos,Efectivo,Palermo,4404,4,2024
+2024-04-30,Electrónica,MercadoPago,Palermo,4423,4,2024
+2024-05-01,Ropa,MercadoPago,Recoleta,4714,5,2024
+2024-05-02,Higiene,Transferencia,Caballito,3727,5,2024
+2024-05-03,Electrónica,Efectivo,Belgrano,3331,5,2024
+2024-05-04,Alimentos,Transferencia,Palermo,4258,5,2024
+2024-05-05,Ropa,Efectivo,Belgrano,3012,5,2024
+2024-05-06,Ropa,Tarjeta de crédito,Caballito,2651,5,2024
+2024-05-07,Ropa,Efectivo,Caballito,4175,5,2024
+2024-05-08,Higiene,Transferencia,Almagro,3245,5,2024
+2024-05-09,Electrónica,MercadoPago,Caballito,4366,5,2024
+2024-05-10,Higiene,Efectivo,Recoleta,4264,5,2024
+2024-05-11,Bebidas,Efectivo,Palermo,2722,5,2024
+2024-05-12,Bebidas,Tarjeta de débito,Almagro,3292,5,2024
+2024-05-13,Electrónica,MercadoPago,Recoleta,2197,5,2024
+2024-05-14,Higiene,Tarjeta de crédito,Belgrano,3962,5,2024
+2024-05-15,Alimentos,Transferencia,Palermo,4563,5,2024
+2024-05-16,Ropa,Tarjeta de crédito,Caballito,2024,5,2024
+2024-05-17,Ropa,MercadoPago,Palermo,532,5,2024
+2024-05-18,Electrónica,Efectivo,Belgrano,4525,5,2024
+2024-05-19,Bebidas,Efectivo,Almagro,3066,5,2024
+2024-05-20,Bebidas,MercadoPago,Almagro,3303,5,2024
+2024-05-21,Ropa,Efectivo,Almagro,4396,5,2024
+2024-05-22,Electrónica,Efectivo,Caballito,4209,5,2024
+2024-05-23,Higiene,Efectivo,Recoleta,1219,5,2024
+2024-05-24,Bebidas,Transferencia,Recoleta,1472,5,2024
+2024-05-25,Higiene,Transferencia,Palermo,4218,5,2024
+2024-05-26,Bebidas,Tarjeta de débito,Caballito,4902,5,2024
+2024-05-27,Bebidas,Tarjeta de crédito,Almagro,2707,5,2024
+2024-05-28,Limpieza,MercadoPago,Almagro,4926,5,2024
+2024-05-29,Bebidas,MercadoPago,Belgrano,4820,5,2024
+2024-05-30,Alimentos,MercadoPago,Belgrano,3530,5,2024
+2024-05-31,Electrónica,Tarjeta de débito,Almagro,4075,5,2024
+2024-06-01,Electrónica,Transferencia,Almagro,3616,6,2024
+2024-06-02,Higiene,Tarjeta de débito,Caballito,3785,6,2024
+2024-06-03,Bebidas,MercadoPago,Recoleta,1143,6,2024
+2024-06-04,Alimentos,Tarjeta de crédito,Belgrano,694,6,2024
+2024-06-05,Higiene,Efectivo,Recoleta,4496,6,2024
+2024-06-06,Limpieza,Transferencia,Caballito,988,6,2024
+2024-06-07,Higiene,Transferencia,Almagro,2704,6,2024
+2024-06-08,Higiene,Tarjeta de débito,Recoleta,3157,6,2024
+2024-06-09,Bebidas,Transferencia,Almagro,3776,6,2024
+2024-06-10,Limpieza,MercadoPago,Almagro,1602,6,2024
+2024-06-11,Higiene,MercadoPago,Palermo,1741,6,2024
+2024-06-12,Alimentos,Tarjeta de débito,Recoleta,1015,6,2024
+2024-06-13,Alimentos,MercadoPago,Recoleta,892,6,2024
+2024-06-14,Electrónica,Tarjeta de crédito,Almagro,1130,6,2024
+2024-06-15,Limpieza,Tarjeta de débito,Caballito,4216,6,2024
+2024-06-16,Limpieza,Tarjeta de crédito,Palermo,2347,6,2024
+2024-06-17,Electrónica,Efectivo,Almagro,3155,6,2024
+2024-06-18,Higiene,Tarjeta de crédito,Belgrano,1479,6,2024
+2024-06-19,Limpieza,Efectivo,Belgrano,3902,6,2024
+2024-06-20,Alimentos,Efectivo,Palermo,4371,6,2024
+2024-06-21,Alimentos,Tarjeta de crédito,Caballito,777,6,2024
+2024-06-22,Bebidas,Tarjeta de débito,Almagro,732,6,2024
+2024-06-23,Limpieza,MercadoPago,Recoleta,2052,6,2024
+2024-06-24,Higiene,MercadoPago,Palermo,3770,6,2024
+2024-06-25,Electrónica,Efectivo,Caballito,2909,6,2024
+2024-06-26,Electrónica,Efectivo,Recoleta,4012,6,2024
+2024-06-27,Higiene,Tarjeta de débito,Belgrano,525,6,2024
+2024-06-28,Ropa,Transferencia,Belgrano,960,6,2024
+2024-06-29,Bebidas,Tarjeta de crédito,Recoleta,4264,6,2024
+2024-06-30,Electrónica,Efectivo,Palermo,3931,6,2024
+2024-07-01,Limpieza,MercadoPago,Belgrano,3983,7,2024
+2024-07-02,Bebidas,Tarjeta de débito,Almagro,2494,7,2024
+2024-07-03,Limpieza,Tarjeta de crédito,Recoleta,990,7,2024
+2024-07-04,Alimentos,Tarjeta de débito,Recoleta,1572,7,2024
+2024-07-05,Bebidas,Tarjeta de crédito,Belgrano,3673,7,2024
+2024-07-06,Electrónica,Tarjeta de crédito,Palermo,715,7,2024
+2024-07-07,Bebidas,Efectivo,Almagro,2223,7,2024
+2024-07-08,Bebidas,Tarjeta de débito,Palermo,2092,7,2024
+2024-07-09,Bebidas,Tarjeta de débito,Caballito,3106,7,2024
+2024-07-10,Ropa,MercadoPago,Caballito,658,7,2024
+2024-07-11,Bebidas,MercadoPago,Belgrano,3813,7,2024
+2024-07-12,Limpieza,Efectivo,Belgrano,3341,7,2024
+2024-07-13,Alimentos,Efectivo,Belgrano,2276,7,2024
+2024-07-14,Higiene,Transferencia,Caballito,2552,7,2024
+2024-07-15,Bebidas,MercadoPago,Palermo,2795,7,2024
+2024-07-16,Electrónica,Tarjeta de crédito,Palermo,2196,7,2024
+2024-07-17,Bebidas,Tarjeta de débito,Belgrano,3493,7,2024
+2024-07-18,Electrónica,Efectivo,Almagro,2969,7,2024
+2024-07-19,Limpieza,Tarjeta de débito,Palermo,2446,7,2024
+2024-07-20,Electrónica,Tarjeta de débito,Caballito,4309,7,2024
+2024-07-21,Higiene,Transferencia,Recoleta,3283,7,2024
+2024-07-22,Alimentos,MercadoPago,Recoleta,4144,7,2024
+2024-07-23,Electrónica,Efectivo,Recoleta,3000,7,2024
+2024-07-24,Electrónica,Tarjeta de débito,Almagro,4145,7,2024
+2024-07-25,Alimentos,Efectivo,Belgrano,3145,7,2024
+2024-07-26,Higiene,Tarjeta de crédito,Caballito,2849,7,2024
+2024-07-27,Bebidas,Transferencia,Almagro,2432,7,2024
+2024-07-28,Electrónica,Tarjeta de crédito,Caballito,3794,7,2024
+2024-07-29,Alimentos,Efectivo,Caballito,2257,7,2024
+2024-07-30,Limpieza,Efectivo,Belgrano,1616,7,2024
+2024-07-31,Alimentos,MercadoPago,Recoleta,3067,7,2024
+2024-08-01,Limpieza,Tarjeta de débito,Belgrano,3999,8,2024
+2024-08-02,Higiene,Tarjeta de débito,Almagro,992,8,2024
+2024-08-03,Bebidas,Tarjeta de crédito,Almagro,3806,8,2024
+2024-08-04,Alimentos,Transferencia,Almagro,1119,8,2024
+2024-08-05,Ropa,Tarjeta de débito,Belgrano,3732,8,2024
+2024-08-06,Electrónica,MercadoPago,Caballito,4323,8,2024
+2024-08-07,Higiene,Tarjeta de crédito,Caballito,2880,8,2024
+2024-08-08,Alimentos,Tarjeta de crédito,Palermo,2046,8,2024
+2024-08-09,Electrónica,MercadoPago,Almagro,4063,8,2024
+2024-08-10,Alimentos,Transferencia,Caballito,2105,8,2024
+2024-08-11,Limpieza,MercadoPago,Palermo,4252,8,2024
+2024-08-12,Alimentos,Transferencia,Caballito,2390,8,2024
+2024-08-13,Ropa,MercadoPago,Almagro,1775,8,2024
+2024-08-14,Alimentos,MercadoPago,Recoleta,3243,8,2024
+2024-08-15,Alimentos,Efectivo,Almagro,2993,8,2024
+2024-08-16,Ropa,Tarjeta de crédito,Belgrano,856,8,2024
+2024-08-17,Higiene,MercadoPago,Caballito,1369,8,2024
+2024-08-18,Alimentos,MercadoPago,Caballito,1385,8,2024
+2024-08-19,Ropa,Tarjeta de débito,Belgrano,2501,8,2024
+2024-08-20,Electrónica,Tarjeta de crédito,Belgrano,1783,8,2024
+2024-08-21,Limpieza,Tarjeta de débito,Recoleta,1119,8,2024
+2024-08-22,Limpieza,Tarjeta de crédito,Caballito,1382,8,2024
+2024-08-23,Alimentos,Tarjeta de débito,Caballito,1296,8,2024
+2024-08-24,Higiene,MercadoPago,Recoleta,4142,8,2024
+2024-08-25,Higiene,MercadoPago,Palermo,3925,8,2024
+2024-08-26,Electrónica,Efectivo,Recoleta,1796,8,2024
+2024-08-27,Alimentos,Tarjeta de débito,Almagro,744,8,2024
+2024-08-28,Limpieza,Transferencia,Caballito,3395,8,2024
+2024-08-29,Higiene,Efectivo,Belgrano,1429,8,2024
+2024-08-30,Alimentos,Tarjeta de débito,Almagro,1019,8,2024
+2024-08-31,Higiene,Tarjeta de débito,Caballito,3712,8,2024
+2024-09-01,Ropa,Efectivo,Recoleta,2909,9,2024
+2024-09-02,Higiene,MercadoPago,Almagro,507,9,2024
+2024-09-03,Limpieza,Tarjeta de débito,Caballito,3025,9,2024
+2024-09-04,Bebidas,MercadoPago,Palermo,3923,9,2024
+2024-09-05,Electrónica,Efectivo,Palermo,2519,9,2024
+2024-09-06,Electrónica,MercadoPago,Belgrano,4782,9,2024
+2024-09-07,Limpieza,Tarjeta de crédito,Caballito,4167,9,2024
+2024-09-08,Higiene,Transferencia,Palermo,4171,9,2024
+2024-09-09,Alimentos,Tarjeta de débito,Recoleta,3301,9,2024
+2024-09-10,Higiene,Transferencia,Caballito,585,9,2024
+2024-09-11,Limpieza,MercadoPago,Recoleta,3615,9,2024
+2024-09-12,Electrónica,Tarjeta de débito,Recoleta,4732,9,2024
+2024-09-13,Higiene,MercadoPago,Palermo,2968,9,2024
+2024-09-14,Electrónica,Tarjeta de crédito,Caballito,4119,9,2024
+2024-09-15,Alimentos,Efectivo,Almagro,2136,9,2024
+2024-09-16,Electrónica,Tarjeta de débito,Palermo,4083,9,2024
+2024-09-17,Electrónica,Tarjeta de crédito,Palermo,4509,9,2024
+2024-09-18,Bebidas,Tarjeta de crédito,Caballito,3826,9,2024
+2024-09-19,Bebidas,Tarjeta de débito,Caballito,2718,9,2024
+2024-09-20,Ropa,MercadoPago,Recoleta,2717,9,2024
+2024-09-21,Bebidas,Tarjeta de crédito,Caballito,2869,9,2024
+2024-09-22,Electrónica,Transferencia,Recoleta,4138,9,2024
+2024-09-23,Limpieza,Tarjeta de crédito,Palermo,3003,9,2024
+2024-09-24,Electrónica,MercadoPago,Belgrano,1443,9,2024
+2024-09-25,Limpieza,MercadoPago,Almagro,3337,9,2024
+2024-09-26,Limpieza,Transferencia,Palermo,3160,9,2024
+2024-09-27,Bebidas,Tarjeta de crédito,Caballito,3436,9,2024
+2024-09-28,Higiene,MercadoPago,Almagro,4944,9,2024
+2024-09-29,Alimentos,Tarjeta de débito,Belgrano,4447,9,2024
+2024-09-30,Bebidas,Efectivo,Belgrano,2176,9,2024
+2024-10-01,Bebidas,Efectivo,Recoleta,1696,10,2024
+2024-10-02,Higiene,Efectivo,Almagro,4605,10,2024
+2024-10-03,Alimentos,Tarjeta de crédito,Recoleta,3287,10,2024
+2024-10-04,Electrónica,Transferencia,Palermo,1961,10,2024
+2024-10-05,Ropa,MercadoPago,Almagro,3818,10,2024
+2024-10-06,Ropa,Tarjeta de débito,Palermo,1166,10,2024
+2024-10-07,Electrónica,Tarjeta de débito,Recoleta,2676,10,2024
+2024-10-08,Bebidas,Tarjeta de crédito,Almagro,4243,10,2024
+2024-10-09,Alimentos,Efectivo,Recoleta,1100,10,2024
+2024-10-10,Bebidas,Tarjeta de crédito,Almagro,3152,10,2024
+2024-10-11,Limpieza,Transferencia,Recoleta,4922,10,2024
+2024-10-12,Bebidas,Transferencia,Belgrano,4324,10,2024
+2024-10-13,Bebidas,MercadoPago,Recoleta,4406,10,2024
+2024-10-14,Electrónica,MercadoPago,Belgrano,1479,10,2024
+2024-10-15,Electrónica,Transferencia,Recoleta,2951,10,2024
+2024-10-16,Electrónica,Transferencia,Almagro,1128,10,2024
+2024-10-17,Ropa,Transferencia,Almagro,2129,10,2024
+2024-10-18,Limpieza,Tarjeta de crédito,Almagro,4196,10,2024
+2024-10-19,Electrónica,Transferencia,Caballito,3930,10,2024
+2024-10-20,Alimentos,Tarjeta de débito,Palermo,4174,10,2024
+2024-10-21,Ropa,Efectivo,Almagro,4429,10,2024
+2024-10-22,Higiene,Transferencia,Belgrano,3265,10,2024
+2024-10-23,Alimentos,Efectivo,Almagro,4869,10,2024
+2024-10-24,Alimentos,Tarjeta de crédito,Caballito,615,10,2024
+2024-10-25,Electrónica,Efectivo,Belgrano,2503,10,2024
+2024-10-26,Higiene,Tarjeta de crédito,Caballito,1192,10,2024
+2024-10-27,Higiene,Tarjeta de débito,Belgrano,3662,10,2024
+2024-10-28,Ropa,Tarjeta de crédito,Recoleta,1605,10,2024
+2024-10-29,Higiene,Tarjeta de crédito,Palermo,3508,10,2024
+2024-10-30,Limpieza,MercadoPago,Palermo,2661,10,2024
+2024-10-31,Electrónica,Transferencia,Caballito,653,10,2024
+2024-11-01,Higiene,Transferencia,Palermo,4199,11,2024
+2024-11-02,Ropa,Tarjeta de débito,Caballito,4910,11,2024
+2024-11-03,Limpieza,Tarjeta de débito,Caballito,4286,11,2024
+2024-11-04,Bebidas,Transferencia,Caballito,1564,11,2024
+2024-11-05,Bebidas,MercadoPago,Palermo,4700,11,2024
+2024-11-06,Limpieza,Transferencia,Caballito,2413,11,2024
+2024-11-07,Ropa,MercadoPago,Palermo,1716,11,2024
+2024-11-08,Limpieza,Tarjeta de débito,Caballito,2901,11,2024
+2024-11-09,Electrónica,Efectivo,Almagro,2272,11,2024
+2024-11-10,Electrónica,Tarjeta de débito,Caballito,2460,11,2024
+2024-11-11,Bebidas,Tarjeta de débito,Belgrano,3280,11,2024
+2024-11-12,Higiene,Tarjeta de crédito,Caballito,3371,11,2024
+2024-11-13,Ropa,Tarjeta de crédito,Recoleta,1160,11,2024
+2024-11-14,Bebidas,Tarjeta de crédito,Caballito,3135,11,2024
+2024-11-15,Higiene,Tarjeta de crédito,Belgrano,2829,11,2024
+2024-11-16,Higiene,MercadoPago,Belgrano,4454,11,2024
+2024-11-17,Electrónica,Transferencia,Palermo,2950,11,2024
+2024-11-18,Alimentos,Efectivo,Almagro,1632,11,2024
+2024-11-19,Alimentos,Tarjeta de débito,Caballito,1199,11,2024
+2024-11-20,Limpieza,MercadoPago,Palermo,2538,11,2024
+2024-11-21,Electrónica,Efectivo,Almagro,2679,11,2024
+2024-11-22,Higiene,MercadoPago,Caballito,3338,11,2024
+2024-11-23,Ropa,MercadoPago,Recoleta,1373,11,2024
+2024-11-24,Alimentos,Tarjeta de débito,Caballito,583,11,2024
+2024-11-25,Higiene,Transferencia,Belgrano,1922,11,2024
+2024-11-26,Alimentos,Tarjeta de crédito,Belgrano,3175,11,2024
+2024-11-27,Alimentos,Transferencia,Recoleta,3680,11,2024
+2024-11-28,Alimentos,Tarjeta de débito,Palermo,4816,11,2024
+2024-11-29,Ropa,Tarjeta de débito,Almagro,4475,11,2024
+2024-11-30,Electrónica,Tarjeta de débito,Caballito,1891,11,2024
+2024-12-01,Ropa,Efectivo,Belgrano,3718,12,2024
+2024-12-02,Bebidas,Transferencia,Palermo,4707,12,2024
+2024-12-03,Higiene,Transferencia,Recoleta,1114,12,2024
+2024-12-04,Electrónica,MercadoPago,Belgrano,3471,12,2024
+2024-12-05,Electrónica,MercadoPago,Recoleta,4065,12,2024
+2024-12-06,Electrónica,MercadoPago,Caballito,4076,12,2024
+2024-12-07,Electrónica,Tarjeta de débito,Almagro,770,12,2024
+2024-12-08,Ropa,Transferencia,Belgrano,4566,12,2024
+2024-12-09,Electrónica,Tarjeta de débito,Belgrano,2968,12,2024
+2024-12-10,Limpieza,Efectivo,Caballito,1890,12,2024
+2024-12-11,Higiene,MercadoPago,Palermo,3854,12,2024
+2024-12-12,Electrónica,Tarjeta de débito,Almagro,4635,12,2024
+2024-12-13,Higiene,Tarjeta de débito,Belgrano,4107,12,2024
+2024-12-14,Limpieza,Efectivo,Almagro,3083,12,2024
+2024-12-15,Limpieza,Tarjeta de crédito,Belgrano,4573,12,2024
+2024-12-16,Higiene,Transferencia,Almagro,3575,12,2024
+2024-12-17,Alimentos,Tarjeta de crédito,Recoleta,4406,12,2024
+2024-12-18,Bebidas,MercadoPago,Belgrano,789,12,2024
+2024-12-19,Alimentos,Tarjeta de débito,Almagro,2980,12,2024
+2024-12-20,Alimentos,Efectivo,Palermo,3752,12,2024
+2024-12-21,Ropa,Efectivo,Recoleta,778,12,2024
+2024-12-22,Alimentos,Transferencia,Recoleta,3424,12,2024
+2024-12-23,Electrónica,Tarjeta de crédito,Palermo,1080,12,2024
+2024-12-24,Ropa,Transferencia,Almagro,753,12,2024
+2024-12-25,Ropa,Tarjeta de débito,Caballito,4776,12,2024
+2024-12-26,Limpieza,Transferencia,Palermo,1324,12,2024
+2024-12-27,Alimentos,Efectivo,Almagro,4332,12,2024
+2024-12-28,Limpieza,Efectivo,Palermo,1199,12,2024
+2024-12-29,Higiene,MercadoPago,Palermo,1880,12,2024
+2024-12-30,Bebidas,MercadoPago,Belgrano,4396,12,2024
+2024-12-31,Ropa,Tarjeta de débito,Almagro,2173,12,2024
+2025-01-01,Higiene,Tarjeta de crédito,Caballito,3227,1,2025
+2025-01-02,Higiene,Transferencia,Belgrano,3656,1,2025
+2025-01-03,Electrónica,Tarjeta de débito,Palermo,3888,1,2025
+2025-01-04,Bebidas,MercadoPago,Palermo,4807,1,2025
+2025-01-05,Higiene,Transferencia,Palermo,883,1,2025
+2025-01-06,Higiene,MercadoPago,Almagro,841,1,2025
+2025-01-07,Bebidas,Transferencia,Almagro,2487,1,2025
+2025-01-08,Bebidas,Tarjeta de crédito,Belgrano,4559,1,2025
+2025-01-09,Higiene,Tarjeta de débito,Caballito,3609,1,2025
+2025-01-10,Bebidas,Transferencia,Belgrano,4582,1,2025
+2025-01-11,Higiene,Efectivo,Recoleta,3298,1,2025
+2025-01-12,Higiene,Efectivo,Palermo,3740,1,2025
+2025-01-13,Electrónica,Transferencia,Palermo,2488,1,2025
+2025-01-14,Alimentos,Transferencia,Palermo,3914,1,2025
+2025-01-15,Higiene,Transferencia,Belgrano,2349,1,2025
+2025-01-16,Limpieza,Efectivo,Belgrano,805,1,2025
+2025-01-17,Ropa,Efectivo,Palermo,4113,1,2025
+2025-01-18,Alimentos,Transferencia,Belgrano,3249,1,2025
+2025-01-19,Alimentos,MercadoPago,Almagro,1635,1,2025
+2025-01-20,Alimentos,MercadoPago,Almagro,705,1,2025
+2025-01-21,Electrónica,Tarjeta de crédito,Belgrano,3950,1,2025
+2025-01-22,Higiene,Tarjeta de débito,Palermo,4311,1,2025
+2025-01-23,Electrónica,MercadoPago,Belgrano,4122,1,2025
+2025-01-24,Higiene,Efectivo,Belgrano,4099,1,2025
+2025-01-25,Electrónica,MercadoPago,Belgrano,3051,1,2025
+2025-01-26,Electrónica,Tarjeta de crédito,Recoleta,4808,1,2025
+2025-01-27,Ropa,Tarjeta de crédito,Almagro,809,1,2025
+2025-01-28,Limpieza,Tarjeta de débito,Caballito,3208,1,2025
+2025-01-29,Electrónica,MercadoPago,Caballito,2491,1,2025
+2025-01-30,Ropa,Efectivo,Recoleta,771,1,2025
+2025-01-31,Bebidas,Efectivo,Belgrano,4142,1,2025
+2025-02-01,Limpieza,Transferencia,Recoleta,4586,2,2025
+2025-02-02,Electrónica,Efectivo,Recoleta,2322,2,2025
+2025-02-03,Alimentos,Tarjeta de débito,Palermo,3773,2,2025
+2025-02-04,Bebidas,Tarjeta de débito,Almagro,4849,2,2025
+2025-02-05,Bebidas,Efectivo,Caballito,1020,2,2025
+2025-02-06,Ropa,Efectivo,Belgrano,1476,2,2025
+2025-02-07,Bebidas,Transferencia,Caballito,4222,2,2025
+2025-02-08,Limpieza,Efectivo,Caballito,4051,2,2025
+2025-02-09,Electrónica,Transferencia,Almagro,4605,2,2025
+2025-02-10,Electrónica,Transferencia,Caballito,3273,2,2025
+2025-02-11,Alimentos,Efectivo,Caballito,3052,2,2025
+2025-02-12,Ropa,Tarjeta de crédito,Recoleta,3332,2,2025
+2025-02-13,Alimentos,Tarjeta de crédito,Almagro,4407,2,2025
+2025-02-14,Bebidas,Transferencia,Palermo,652,2,2025
+2025-02-15,Alimentos,Efectivo,Belgrano,3464,2,2025
+2025-02-16,Limpieza,Tarjeta de crédito,Caballito,3416,2,2025
+2025-02-17,Electrónica,Efectivo,Belgrano,3300,2,2025
+2025-02-18,Bebidas,Efectivo,Palermo,2252,2,2025
+2025-02-19,Alimentos,Efectivo,Belgrano,3110,2,2025
+2025-02-20,Ropa,MercadoPago,Palermo,4375,2,2025
+2025-02-21,Limpieza,Efectivo,Recoleta,1604,2,2025
+2025-02-22,Limpieza,MercadoPago,Caballito,3036,2,2025
+2025-02-23,Alimentos,Transferencia,Palermo,4699,2,2025
+2025-02-24,Electrónica,Tarjeta de crédito,Belgrano,4354,2,2025
+2025-02-25,Alimentos,Tarjeta de crédito,Caballito,3994,2,2025
+2025-02-26,Bebidas,Tarjeta de crédito,Recoleta,2414,2,2025
+2025-02-27,Alimentos,Tarjeta de crédito,Caballito,3572,2,2025
+2025-02-28,Limpieza,Tarjeta de crédito,Palermo,1506,2,2025
+2025-03-01,Alimentos,Tarjeta de crédito,Recoleta,906,3,2025
+2025-03-02,Electrónica,Tarjeta de crédito,Belgrano,666,3,2025
+2025-03-03,Ropa,Transferencia,Recoleta,1008,3,2025
+2025-03-04,Higiene,Efectivo,Recoleta,2161,3,2025
+2025-03-05,Alimentos,Tarjeta de débito,Almagro,4164,3,2025
+2025-03-06,Electrónica,MercadoPago,Recoleta,3989,3,2025
+2025-03-07,Electrónica,Tarjeta de débito,Recoleta,1180,3,2025
+2025-03-08,Ropa,Tarjeta de débito,Caballito,3024,3,2025
+2025-03-09,Limpieza,Efectivo,Belgrano,2620,3,2025
+2025-03-10,Electrónica,Efectivo,Caballito,4857,3,2025
+2025-03-11,Electrónica,Efectivo,Caballito,1863,3,2025
+2025-03-12,Electrónica,Tarjeta de crédito,Palermo,1831,3,2025
+2025-03-13,Electrónica,Transferencia,Caballito,2792,3,2025
+2025-03-14,Bebidas,Tarjeta de crédito,Almagro,2038,3,2025
+2025-03-15,Bebidas,Transferencia,Almagro,3908,3,2025
+2025-03-16,Limpieza,Transferencia,Palermo,1060,3,2025
+2025-03-17,Alimentos,Tarjeta de débito,Belgrano,1599,3,2025
+2025-03-18,Electrónica,Tarjeta de débito,Belgrano,2403,3,2025
+2025-03-19,Ropa,Transferencia,Caballito,674,3,2025
+2025-03-20,Alimentos,Transferencia,Caballito,2656,3,2025
+2025-03-21,Ropa,Tarjeta de crédito,Caballito,2730,3,2025
+2025-03-22,Alimentos,Tarjeta de crédito,Belgrano,4787,3,2025
+2025-03-23,Limpieza,Tarjeta de débito,Recoleta,4660,3,2025
+2025-03-24,Electrónica,Efectivo,Almagro,4420,3,2025
+2025-03-25,Electrónica,Transferencia,Recoleta,1997,3,2025
+2025-03-26,Higiene,Tarjeta de crédito,Recoleta,4354,3,2025
+2025-03-27,Ropa,Tarjeta de débito,Belgrano,3671,3,2025
+2025-03-28,Alimentos,Tarjeta de crédito,Recoleta,2067,3,2025
+2025-03-29,Alimentos,Transferencia,Palermo,1651,3,2025
+2025-03-30,Bebidas,Transferencia,Caballito,868,3,2025
+2025-03-31,Higiene,MercadoPago,Palermo,542,3,2025
+2025-04-01,Bebidas,Efectivo,Almagro,2407,4,2025
+2025-04-02,Bebidas,MercadoPago,Caballito,3990,4,2025
+2025-04-03,Bebidas,Tarjeta de débito,Recoleta,3035,4,2025
+2025-04-04,Ropa,Tarjeta de crédito,Almagro,4673,4,2025
+2025-04-05,Ropa,Tarjeta de débito,Caballito,3373,4,2025
+2025-04-06,Limpieza,Transferencia,Recoleta,2324,4,2025
+2025-04-07,Limpieza,MercadoPago,Palermo,1793,4,2025
+2025-04-08,Bebidas,MercadoPago,Caballito,3886,4,2025
+2025-04-09,Higiene,MercadoPago,Recoleta,3472,4,2025
+2025-04-10,Alimentos,Tarjeta de débito,Palermo,4422,4,2025
+2025-04-11,Ropa,Transferencia,Almagro,1492,4,2025
+2025-04-12,Higiene,Tarjeta de crédito,Almagro,2886,4,2025
+2025-04-13,Electrónica,Tarjeta de crédito,Almagro,2740,4,2025
+2025-04-14,Ropa,Tarjeta de débito,Almagro,1976,4,2025
+2025-04-15,Ropa,MercadoPago,Belgrano,3907,4,2025
+2025-04-16,Limpieza,Efectivo,Caballito,889,4,2025
+2025-04-17,Alimentos,Tarjeta de débito,Caballito,1499,4,2025
+2025-04-18,Alimentos,Tarjeta de débito,Belgrano,2355,4,2025
+2025-04-19,Electrónica,Transferencia,Recoleta,1158,4,2025
+2025-04-20,Electrónica,Tarjeta de crédito,Recoleta,3263,4,2025
+2025-04-21,Ropa,Tarjeta de débito,Almagro,4163,4,2025
+2025-04-22,Bebidas,Tarjeta de débito,Palermo,1981,4,2025
+2025-04-23,Limpieza,MercadoPago,Recoleta,4231,4,2025
+2025-04-24,Limpieza,MercadoPago,Palermo,951,4,2025
+2025-04-25,Ropa,Efectivo,Caballito,2975,4,2025
+2025-04-26,Higiene,Transferencia,Palermo,3722,4,2025
+2025-04-27,Bebidas,Efectivo,Caballito,2037,4,2025
+2025-04-28,Ropa,MercadoPago,Belgrano,3593,4,2025
+2025-04-29,Bebidas,Tarjeta de crédito,Belgrano,1382,4,2025
+2025-04-30,Bebidas,MercadoPago,Almagro,4908,4,2025
+2025-05-01,Bebidas,Transferencia,Recoleta,4568,5,2025
+2025-05-02,Ropa,MercadoPago,Almagro,3066,5,2025
+2025-05-03,Limpieza,Transferencia,Caballito,3777,5,2025
+2025-05-04,Limpieza,Transferencia,Almagro,874,5,2025
+2025-05-05,Bebidas,Transferencia,Palermo,4197,5,2025
+2025-05-06,Higiene,Transferencia,Caballito,3562,5,2025
+2025-05-07,Alimentos,Transferencia,Belgrano,3750,5,2025
+2025-05-08,Ropa,Tarjeta de crédito,Recoleta,612,5,2025
+2025-05-09,Alimentos,Efectivo,Caballito,3697,5,2025
+2025-05-10,Higiene,Tarjeta de débito,Caballito,2878,5,2025
+2025-05-11,Ropa,Efectivo,Palermo,2424,5,2025
+2025-05-12,Bebidas,Transferencia,Recoleta,639,5,2025
+2025-05-13,Limpieza,Tarjeta de crédito,Belgrano,1924,5,2025
+2025-05-14,Alimentos,MercadoPago,Caballito,3449,5,2025
+2025-05-15,Electrónica,Tarjeta de crédito,Caballito,3668,5,2025
+2025-05-16,Electrónica,Transferencia,Palermo,1016,5,2025
+2025-05-17,Higiene,Tarjeta de crédito,Almagro,3116,5,2025
+2025-05-18,Bebidas,Tarjeta de crédito,Belgrano,1387,5,2025
+2025-05-19,Alimentos,Transferencia,Recoleta,3604,5,2025
+2025-05-20,Bebidas,Tarjeta de crédito,Caballito,549,5,2025
+2025-05-21,Alimentos,Tarjeta de débito,Caballito,4451,5,2025
+2025-05-22,Higiene,Tarjeta de débito,Belgrano,4060,5,2025
+2025-05-23,Higiene,Tarjeta de crédito,Almagro,518,5,2025
+2025-05-24,Electrónica,MercadoPago,Caballito,1973,5,2025
+2025-05-25,Bebidas,Transferencia,Belgrano,4561,5,2025
+2025-05-26,Ropa,Tarjeta de débito,Palermo,3106,5,2025
+2025-05-27,Electrónica,MercadoPago,Almagro,951,5,2025
+2025-05-28,Bebidas,Tarjeta de crédito,Recoleta,4265,5,2025
+2025-05-29,Electrónica,MercadoPago,Caballito,2938,5,2025
+2025-05-30,Ropa,Efectivo,Belgrano,4810,5,2025
+2025-05-31,Limpieza,Tarjeta de débito,Palermo,2049,5,2025
+2025-06-01,Limpieza,Tarjeta de crédito,Recoleta,3974,6,2025
+2025-06-02,Limpieza,Transferencia,Belgrano,627,6,2025
+2025-06-03,Limpieza,Tarjeta de crédito,Belgrano,3261,6,2025
+2025-06-04,Alimentos,Transferencia,Recoleta,4956,6,2025
+2025-06-05,Limpieza,Tarjeta de crédito,Palermo,1915,6,2025
+2025-06-06,Ropa,MercadoPago,Palermo,701,6,2025
+2025-06-07,Higiene,MercadoPago,Almagro,2869,6,2025
+2025-06-08,Higiene,MercadoPago,Caballito,1017,6,2025
+2025-06-09,Alimentos,Efectivo,Recoleta,1841,6,2025
+2025-06-10,Limpieza,Transferencia,Recoleta,2488,6,2025
+2025-06-11,Limpieza,MercadoPago,Recoleta,4045,6,2025
+2025-06-12,Limpieza,Efectivo,Palermo,4302,6,2025
+2025-06-13,Electrónica,Transferencia,Caballito,3775,6,2025
+2025-06-14,Bebidas,Tarjeta de crédito,Almagro,4154,6,2025
+2025-06-15,Electrónica,Efectivo,Belgrano,2934,6,2025
+2025-06-16,Bebidas,Tarjeta de débito,Belgrano,707,6,2025
+2025-06-17,Limpieza,Efectivo,Recoleta,3133,6,2025
+2025-06-18,Limpieza,Efectivo,Caballito,4617,6,2025
+2025-06-19,Electrónica,Transferencia,Palermo,653,6,2025
+2025-06-20,Electrónica,Tarjeta de crédito,Caballito,3866,6,2025
+2025-06-21,Bebidas,Tarjeta de débito,Caballito,4814,6,2025
+2025-06-22,Higiene,MercadoPago,Palermo,2018,6,2025
+2025-06-23,Bebidas,MercadoPago,Recoleta,3100,6,2025
+2025-06-24,Electrónica,Efectivo,Caballito,2695,6,2025
+2025-06-25,Ropa,Transferencia,Belgrano,4998,6,2025
+2025-06-26,Electrónica,Transferencia,Palermo,4054,6,2025
+2025-06-27,Ropa,MercadoPago,Almagro,2914,6,2025
+2025-06-28,Alimentos,Tarjeta de débito,Recoleta,3349,6,2025
+2025-06-29,Electrónica,Tarjeta de crédito,Palermo,2242,6,2025
+2025-06-30,Alimentos,Tarjeta de débito,Almagro,1806,6,2025
+2025-07-01,Higiene,Tarjeta de crédito,Almagro,4349,7,2025
+2025-07-02,Bebidas,MercadoPago,Caballito,4668,7,2025
+2025-07-03,Ropa,Tarjeta de crédito,Caballito,4695,7,2025
+2025-07-04,Bebidas,Transferencia,Caballito,3055,7,2025
+2025-07-05,Alimentos,Efectivo,Palermo,2805,7,2025
+2025-07-06,Ropa,Efectivo,Palermo,1588,7,2025
+2025-07-07,Bebidas,MercadoPago,Recoleta,3142,7,2025
+2025-07-08,Electrónica,Transferencia,Caballito,1677,7,2025
+2025-07-09,Limpieza,Tarjeta de débito,Almagro,3494,7,2025
+2025-07-10,Alimentos,Transferencia,Belgrano,1059,7,2025
+2025-07-11,Bebidas,Efectivo,Recoleta,3464,7,2025
+2025-07-12,Alimentos,Efectivo,Palermo,1771,7,2025
+2025-07-13,Alimentos,Transferencia,Recoleta,2313,7,2025
+2025-07-14,Ropa,Transferencia,Recoleta,3415,7,2025
+2025-07-15,Ropa,Efectivo,Recoleta,1109,7,2025
+2025-07-16,Limpieza,Tarjeta de débito,Recoleta,2961,7,2025
+2025-07-17,Electrónica,MercadoPago,Belgrano,4620,7,2025
+2025-07-18,Alimentos,MercadoPago,Caballito,783,7,2025
+2025-07-19,Bebidas,Transferencia,Almagro,3428,7,2025
+2025-07-20,Higiene,MercadoPago,Recoleta,4896,7,2025
+2025-07-21,Alimentos,Efectivo,Recoleta,1591,7,2025
+2025-07-22,Alimentos,Efectivo,Recoleta,1316,7,2025
+2025-07-23,Limpieza,Transferencia,Caballito,582,7,2025
+2025-07-24,Electrónica,Transferencia,Palermo,2420,7,2025
+2025-07-25,Higiene,Transferencia,Palermo,3991,7,2025
+2025-07-26,Ropa,Tarjeta de débito,Belgrano,3644,7,2025
+2025-07-27,Ropa,MercadoPago,Palermo,2593,7,2025
+2025-07-28,Bebidas,Transferencia,Recoleta,675,7,2025
+2025-07-29,Higiene,Tarjeta de crédito,Recoleta,3204,7,2025
+2025-07-30,Ropa,Tarjeta de crédito,Recoleta,869,7,2025
+2025-07-31,Bebidas,Efectivo,Belgrano,2318,7,2025
+2025-08-01,Electrónica,MercadoPago,Recoleta,2601,8,2025
+2025-08-02,Bebidas,Transferencia,Palermo,3990,8,2025
+2025-08-03,Ropa,Tarjeta de crédito,Caballito,2279,8,2025
+2025-08-04,Limpieza,MercadoPago,Caballito,1864,8,2025
+2025-08-05,Limpieza,Efectivo,Almagro,4962,8,2025
+2025-08-06,Limpieza,Tarjeta de débito,Palermo,3842,8,2025
+2025-08-07,Ropa,MercadoPago,Recoleta,4176,8,2025
+2025-08-08,Limpieza,MercadoPago,Caballito,2926,8,2025
+2025-08-09,Higiene,Tarjeta de débito,Palermo,572,8,2025
+2025-08-10,Electrónica,MercadoPago,Caballito,3462,8,2025
+2025-08-11,Bebidas,Efectivo,Recoleta,1359,8,2025
+2025-08-12,Bebidas,Efectivo,Caballito,4356,8,2025
+2025-08-13,Ropa,Tarjeta de débito,Almagro,4638,8,2025
+2025-08-14,Limpieza,Transferencia,Almagro,2924,8,2025
+2025-08-15,Limpieza,Tarjeta de crédito,Caballito,1564,8,2025
+2025-08-16,Alimentos,Transferencia,Palermo,2717,8,2025
+2025-08-17,Electrónica,MercadoPago,Palermo,4517,8,2025
+2025-08-18,Higiene,Tarjeta de crédito,Palermo,2759,8,2025
+2025-08-19,Bebidas,Tarjeta de débito,Caballito,4251,8,2025
+2025-08-20,Alimentos,Tarjeta de débito,Palermo,2586,8,2025
+2025-08-21,Alimentos,Tarjeta de crédito,Recoleta,868,8,2025
+2025-08-22,Ropa,Efectivo,Almagro,3304,8,2025
+2025-08-23,Bebidas,Tarjeta de crédito,Recoleta,650,8,2025
+2025-08-24,Ropa,MercadoPago,Palermo,1634,8,2025
+2025-08-25,Higiene,Efectivo,Recoleta,3284,8,2025
+2025-08-26,Alimentos,Tarjeta de débito,Palermo,4664,8,2025
+2025-08-27,Alimentos,Tarjeta de crédito,Caballito,2846,8,2025
+2025-08-28,Electrónica,Transferencia,Recoleta,2750,8,2025
+2025-08-29,Higiene,Transferencia,Caballito,560,8,2025
+2025-08-30,Alimentos,MercadoPago,Caballito,3510,8,2025
+2025-08-31,Higiene,Transferencia,Belgrano,4401,8,2025
+2025-09-01,Bebidas,Tarjeta de crédito,Palermo,1837,9,2025
+2025-09-02,Limpieza,Tarjeta de crédito,Almagro,1684,9,2025
+2025-09-03,Alimentos,Transferencia,Palermo,4926,9,2025
+2025-09-04,Electrónica,Tarjeta de crédito,Almagro,2051,9,2025
+2025-09-05,Bebidas,MercadoPago,Palermo,4933,9,2025
+2025-09-06,Higiene,Efectivo,Caballito,2129,9,2025
+2025-09-07,Ropa,MercadoPago,Recoleta,1827,9,2025
+2025-09-08,Bebidas,MercadoPago,Recoleta,2026,9,2025
+2025-09-09,Alimentos,Tarjeta de crédito,Belgrano,2173,9,2025
+2025-09-10,Higiene,Efectivo,Almagro,1861,9,2025
+2025-09-11,Limpieza,Tarjeta de crédito,Almagro,2073,9,2025
+2025-09-12,Bebidas,Tarjeta de débito,Almagro,3186,9,2025
+2025-09-13,Alimentos,Tarjeta de crédito,Caballito,4870,9,2025
+2025-09-14,Electrónica,Tarjeta de crédito,Almagro,2866,9,2025
+2025-09-15,Ropa,Tarjeta de crédito,Recoleta,4257,9,2025
+2025-09-16,Higiene,Efectivo,Caballito,2934,9,2025
+2025-09-17,Bebidas,Tarjeta de crédito,Palermo,2493,9,2025
+2025-09-18,Bebidas,Efectivo,Almagro,1369,9,2025
+2025-09-19,Limpieza,Transferencia,Almagro,1514,9,2025
+2025-09-20,Limpieza,Tarjeta de débito,Palermo,2411,9,2025
+2025-09-21,Electrónica,Efectivo,Almagro,1102,9,2025
+2025-09-22,Ropa,Transferencia,Palermo,4321,9,2025
+2025-09-23,Electrónica,Efectivo,Caballito,1190,9,2025
+2025-09-24,Alimentos,Efectivo,Recoleta,993,9,2025
+2025-09-25,Alimentos,Tarjeta de débito,Palermo,989,9,2025
+2025-09-26,Electrónica,MercadoPago,Belgrano,3056,9,2025
